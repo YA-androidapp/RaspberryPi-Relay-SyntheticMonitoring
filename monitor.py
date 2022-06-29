@@ -1,3 +1,12 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+#
+# Copyright (c) 2022 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
+
+# required:
+#   pip install RPi.GPIO
+
+
 import requests
 import RPi.GPIO as GPIO
 import time
